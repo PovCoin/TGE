@@ -1,0 +1,9 @@
+# jetbrains project files
+.idea
+
+# nodejs modules
+node_modules
+
+build
+
+package-lock.json
